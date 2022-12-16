@@ -1,0 +1,17 @@
+b99394d1e1fe42b66cd1d47602a5374e *DESCRIPTION
+9faacc6ac3c9ea080ca16ae6f0a66367 *LICENSE
+aac299bda1215e61a23463ced13076b4 *NAMESPACE
+314faaacb620836b3aec19630219b1c6 *NEWS.md
+536a3d09976c9e154b894b4bb8b28f03 *R/CoefMod.R
+36f09946ba923d576ee0ca03cab745ff *R/GenDiscrGauss.R
+ea857b22a33cbcc4e13cfa8956fe0c11 *R/GenPolyMod.R
+b00ed7d5212396d42107feb48f22bab7 *R/GenTernary.R
+531a53aac7f115e2a10d2223b8a7df53 *R/GenUnif.R
+8f146b3ac75e92098844c01cc713bb94 *README.md
+fa1f9022740bff36f50f84de484bb807 *man/CoefMod.Rd
+40cf9511289b7970e3e8f5e252ff7018 *man/GenDiscrGauss.Rd
+7016e018accc794c82bd7375872ace96 *man/GenPolyMod.Rd
+bf1d56197319ffa9d6a15665c8b9416a *man/GenTernary.Rd
+c7fbfe32bbbcbc63da3b2a9507295c3f *man/GenUnif.Rd
+a6710bd2a35865c744ea32ecae6e1714 *tests/testthat.R
+8df5456570031cac4d46350cef99a8e0 *tests/testthat/tests.R
